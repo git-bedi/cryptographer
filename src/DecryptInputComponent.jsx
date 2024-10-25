@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
 import CryptoJS from 'crypto-js';
-import { deriveKey } from './utils';
-
 
 const DecryptForm = () => {
   const [input1, setInput1] = useState('');
