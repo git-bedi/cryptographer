@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crptographer/static/css/main.f15d4070.css",
+    "main.js": "/crptographer/static/js/main.2463be09.js",
+    "static/js/453.069523fa.chunk.js": "/crptographer/static/js/453.069523fa.chunk.js",
+    "index.html": "/crptographer/index.html",
+    "main.f15d4070.css.map": "/crptographer/static/css/main.f15d4070.css.map",
+    "main.2463be09.js.map": "/crptographer/static/js/main.2463be09.js.map",
+    "453.069523fa.chunk.js.map": "/crptographer/static/js/453.069523fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15d4070.css",
+    "static/js/main.2463be09.js"
+  ]
+}
